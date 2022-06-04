@@ -73,9 +73,9 @@ Etc .......
 
 <table>
 <tr>
-    <td><img alt="Foto da Ellen" src="img/douglas.jpg" /><br>Ellen Camila</td>
-    <td><img alt="Foto do Gustavo Pascoal" src="img/gustavo.jpg" /><br>Gustavo Pascoal</td>
-    <td><img alt="Foto do Gustavo Dias" src="img/joao.jpg" /><br>Gustavo Dias</td>
+    <td><img alt="Foto da Ellen" src="img/ellencamilacardias.png" /><br>Ellen Camila</td>
+    <td><img alt="Foto do Gustavo Pascoal" src="img/gustavopascoal.png" /><br>Gustavo Pascoal</td>
+    <td><img alt="Foto do Gustavo Dias" src="img/gustavodias.png" /><br>Gustavo Dias</td>
     <td><img alt="Foto do Leandro" src="img/leandromachadocosta.png" /><br>Leandro Machado</td>
     <td><img alt="Foto do Robson" src="img/robsonsilva.png" /><br>Robson Silva</td>
   </tr>
