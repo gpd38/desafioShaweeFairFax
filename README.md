@@ -35,7 +35,7 @@ O Hackathon Fair Fax é um evento realizado pelo grupo para promover soluções 
 
 #### Problema
 
-<p>- Como podemos criar pontos de suporte, estacionamento e manutenção de bicicletas para os ciclistas, transformando a cidade em um local mais amigável para as pessoas e suas bikes, estimulando seu uso no dia a dia?</p>
+<p>Como podemos criar pontos de suporte, estacionamento e manutenção de bicicletas para os ciclistas, transformando a cidade em um local mais amigável para as pessoas e suas bikes, estimulando seu uso no dia a dia?</p>
 
 ## Material
 
