@@ -74,15 +74,15 @@ Etc .......
 <table>
 <tr>
     <td><img alt="Foto da Ellen" src="img/ellencamilacardias.png" /><br>Ellen Camila</td>
-    <td><img alt="Foto do Gustavo Pascoal" src="img/gustavopascoal.png" /><br>Gustavo Pascoal</td>
     <td><img alt="Foto do Gustavo Dias" src="img/gustavodias.png" /><br>Gustavo Dias</td>
+    <td><img alt="Foto do Gustavo Pascoal" src="img/gustavopascoal.png" /><br>Gustavo Pascoal</td>
     <td><img alt="Foto do Leandro" src="img/leandromachadocosta.png" /><br>Leandro Machado</td>
     <td><img alt="Foto do Robson" src="img/robsonsilva.png" /><br>Robson Silva</td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/ellencamilacardias/" target="_blank">Linkedin</a></td>
-    <td><a href="https://www.linkedin.com/in/gpascoal/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias" target="_blank">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/gpascoal/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/leandro275/" target="_blank">Linkedin</a></td>
     <td><a href="https://github.com/rjsilvaoficial" target="_blank">Linkedin</a></td>
   </tr>
