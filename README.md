@@ -41,19 +41,17 @@ O Hackathon Fair Fax é um evento realizado pelo grupo para promover soluções 
 
 Veja todo o material produzido para este desafio nos seguintes links:
 
-- [Vídeo Pitch](#)
-- [Vídeo Demo](#)
-- [Apresentação em PDF](#)
-- [App desenvolvido](#)
-- [Código fonte](#)
+- [Vídeo Pitch](https://www.youtube.com/watch?v=kABKP2ytWIs)
+- [Vídeo Demo]()
+- [Apresentação em PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/a064c685-805f-452a-b244-f2597892aabc.pdf)
+- [App desenvolvido](https://cutt.ly/velo-sp)
+- [Código fonte](https://github.com/rjsilvaoficial/Velo)
 
 ## Projeto
 
-A plataforma "nome-que-definimos" está aí para resolver o problema relacionado a ......
+<p> A plataforma de incentivo à saúde através de atividade física Vélo, foi idealizada com o intuito de reunir parcerias com estacionamento, academias e futuramente oficinas para dar suporte ao ciclista no dia-a-dia;</p>
 
-Os ciclistas querem saúde, segurança, comodidade, qualidade de vida e tudo isso no alcance de seus pés. .....
-
-Etc .......
+<p>Com planos mensais e anuais com um preço acessível, trazendo segurança e comodidade ao ciclista. Consequentemente a monetização virá em primeira via destes planos. Em 2ª via, pode-se atrelar a parceria da Vélo com os estacionamentos, o seguro da FairFax diretamente aos mesmos. Em 3ª via, se houvesse a adesão por empresas diversas para incentivo aos seus colaboradores a pedalar, poderia se pensar em um plano específico para empresas. </p>
 
 ## Ferramentas
 
