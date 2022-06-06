@@ -42,7 +42,7 @@ O Hackathon Fair Fax é um evento realizado pelo grupo para promover soluções 
 Veja todo o material produzido para este desafio nos seguintes links:
 
 - [Vídeo Pitch](https://www.youtube.com/watch?v=kABKP2ytWIs)
-- [Vídeo Demo]()
+- [Vídeo Demo](https://www.youtube.com/watch?v=GyPDqej2DyM)
 - [Apresentação em PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/a064c685-805f-452a-b244-f2597892aabc.pdf)
 - [App desenvolvido](https://cutt.ly/velo-sp)
 - [Código fonte](https://github.com/rjsilvaoficial/Velo)
